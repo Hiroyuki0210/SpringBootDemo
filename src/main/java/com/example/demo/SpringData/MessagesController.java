@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.SpringData;
 
 import java.util.List;
 
