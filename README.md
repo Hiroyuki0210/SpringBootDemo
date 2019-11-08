@@ -4,7 +4,6 @@
 Spring Boot のデモアプリです。  
 本アプリは、springの機能である  
 ・spring-web  
-・spring-data  
 ・spring-security  
 を簡単に見るためのものです。  
 
